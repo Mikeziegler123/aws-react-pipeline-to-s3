@@ -10,7 +10,7 @@ function App() {
           <code>Edited from A Computer</code>
         </p>
         <p>
-          <code>Notifications sent to Mike v2</code>
+          <code>Notifications sent to Mike v3</code>
         </p>
         <a
           className="App-link"
